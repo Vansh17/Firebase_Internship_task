@@ -246,7 +246,7 @@ import { firebase } from '../../config';
           paddingTop:30,
           textAlign:'center',
           top:70,
-          // fontFamily:'Sarabun',
+          // fontFamily:'Sarabuxn',
           textAlign:'center',
       }
   })
